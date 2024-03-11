@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\WN10\\Desktop\\Compacter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E7693268-4A99-4872-AC43-A59CBCC596C3}|Compacter\\Compacter.csproj|c:\\users\\wn10\\desktop\\compacter\\compacter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7693268-4A99-4872-AC43-A59CBCC596C3}|Compacter\\Compacter.csproj|solutionrelative:compacter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7693268-4A99-4872-AC43-A59CBCC596C3}|Compacter\\Compacter.csproj|c:\\users\\wn10\\desktop\\compacter\\compacter\\service\\zipservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7693268-4A99-4872-AC43-A59CBCC596C3}|Compacter\\Compacter.csproj|solutionrelative:compacter\\service\\zipservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7693268-4A99-4872-AC43-A59CBCC596C3}|Compacter\\Compacter.csproj|c:\\users\\wn10\\desktop\\compacter\\compacter\\service\\izipservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7693268-4A99-4872-AC43-A59CBCC596C3}|Compacter\\Compacter.csproj|solutionrelative:compacter\\service\\izipservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IZipService.cs",
+              "DocumentMoniker": "C:\\Users\\WN10\\Desktop\\Compacter\\Compacter\\Service\\IZipService.cs",
+              "RelativeDocumentMoniker": "Compacter\\Service\\IZipService.cs",
+              "ToolTip": "C:\\Users\\WN10\\Desktop\\Compacter\\Compacter\\Service\\IZipService.cs",
+              "RelativeToolTip": "Compacter\\Service\\IZipService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T12:08:15.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ZipService.cs",
+              "DocumentMoniker": "C:\\Users\\WN10\\Desktop\\Compacter\\Compacter\\Service\\ZipService.cs",
+              "RelativeDocumentMoniker": "Compacter\\Service\\ZipService.cs",
+              "ToolTip": "C:\\Users\\WN10\\Desktop\\Compacter\\Compacter\\Service\\ZipService.cs",
+              "RelativeToolTip": "Compacter\\Service\\ZipService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T12:07:07.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\WN10\\Desktop\\Compacter\\Compacter\\Program.cs",
+              "RelativeDocumentMoniker": "Compacter\\Program.cs",
+              "ToolTip": "C:\\Users\\WN10\\Desktop\\Compacter\\Compacter\\Program.cs",
+              "RelativeToolTip": "Compacter\\Program.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAwwBQAAACjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T12:03:28.694Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

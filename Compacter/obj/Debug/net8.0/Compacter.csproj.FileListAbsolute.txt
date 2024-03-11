@@ -1,0 +1,14 @@
+C:\Users\WN10\Desktop\Compacter\Compacter\bin\Debug\net8.0\Compacter.exe
+C:\Users\WN10\Desktop\Compacter\Compacter\bin\Debug\net8.0\Compacter.deps.json
+C:\Users\WN10\Desktop\Compacter\Compacter\bin\Debug\net8.0\Compacter.runtimeconfig.json
+C:\Users\WN10\Desktop\Compacter\Compacter\bin\Debug\net8.0\Compacter.dll
+C:\Users\WN10\Desktop\Compacter\Compacter\bin\Debug\net8.0\Compacter.pdb
+C:\Users\WN10\Desktop\Compacter\Compacter\obj\Debug\net8.0\Compacter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WN10\Desktop\Compacter\Compacter\obj\Debug\net8.0\Compacter.AssemblyInfoInputs.cache
+C:\Users\WN10\Desktop\Compacter\Compacter\obj\Debug\net8.0\Compacter.AssemblyInfo.cs
+C:\Users\WN10\Desktop\Compacter\Compacter\obj\Debug\net8.0\Compacter.csproj.CoreCompileInputs.cache
+C:\Users\WN10\Desktop\Compacter\Compacter\obj\Debug\net8.0\Compacter.dll
+C:\Users\WN10\Desktop\Compacter\Compacter\obj\Debug\net8.0\refint\Compacter.dll
+C:\Users\WN10\Desktop\Compacter\Compacter\obj\Debug\net8.0\Compacter.pdb
+C:\Users\WN10\Desktop\Compacter\Compacter\obj\Debug\net8.0\Compacter.genruntimeconfig.cache
+C:\Users\WN10\Desktop\Compacter\Compacter\obj\Debug\net8.0\ref\Compacter.dll
